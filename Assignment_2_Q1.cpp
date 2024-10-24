@@ -9,6 +9,8 @@ struct Node
     Node(int value) : val(value) , next(nullptr) {}
 };
 
+
+
 class Linked_List
 {
     private:
